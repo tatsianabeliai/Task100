@@ -1,0 +1,10 @@
+<suite name="Test" verbose="1" >
+    <test name="Regression1"   >
+        <classes>
+            <class name="AlertsTest" />
+            <class name="DDTTest" />
+            <class name="IFrameTest" />
+            <class name="RMSysTest" />
+        </classes>
+    </test>
+</suite>
